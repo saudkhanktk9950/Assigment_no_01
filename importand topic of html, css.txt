@@ -1,0 +1,43 @@
+html page layout
+html grid
+div
+class
+id
+a tag
+buttons
+list
+form
+input type
+input atributes
+table
+html meda
+
+
+css
+inline css
+internal css
+external css
+width,hight,border
+bacground color
+border
+margin
+padding
+height/width
+text
+font
+positioon
+overflow
+float
+inline bloxk
+image style/image gallery
+inlign:
+
+
+CSS Advanced
+Rounded corner
+border image
+object fit
+object position
+box sizing
+
+
